@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @melcom-copeland (Melcom Copeland). I am a highly accomplished, passionate and results-driven business and technical strategist with over 25 years of verifiable commercial success including 20-years as an entrepreneur leading projects in real money gaming (live sports betting, betting exchange, high-frequency 3D virtual games, lottery, & land-based casino payment solutions). A subject matter expert and strategic architect in stablecoins, digital payments, fintech, blockchain, and bespoke development of high-frequency transaction solutions in gaming and payments. In my career, I have led several projects and teams to “Industry Firsts” within the online and retail gambling industry. I am exceptionally good at aligning IT with the core business goals of fintech and gaming industries with complementary skills in executive leadership, project management and execution expertise in Blockchain and Cryptocurrencies.I have a breadth of experience spanning across providing vision and executive leadership to entire project, personally developing and maintaining C-level customer relationships, leading cross-functional teams, commercialising the operations and maximising the ROI. 
+- 👀 I’m interested in advanced Stablecoin Research and stablecoin's role in digital payments, defi and cross-border remittance using qualitative, quantitative and general mixed research methods.
+- 🌱 I’m currently learning to enhance my advanced research methodology skills in order to provide the most accurate data  to future studies I engage in.
+- 💞️ I’m looking to collaborate on anything related to the research and utlization of stablecoins in DeFi, payments, and gaming.
+- 📫 How to reach me ...I can be reached on Linkedin at https://www.linkedin.com/in/melcomcopeland/ or telegram on @m_copeland
+
+<!---
+melcom-copeland/melcom-copeland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
